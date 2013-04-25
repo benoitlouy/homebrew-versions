@@ -1,6 +1,6 @@
 require 'formula'
 
-class Grails21 < Formula
+class Grails211 < Formula
   homepage 'http://grails.org'
   url 'http://dist.springframework.org.s3.amazonaws.com/release/GRAILS/grails-2.1.1.zip'
   sha1 '1beaa46a00ddd11c8c090c926e2f54af85530cc1'
